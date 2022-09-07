@@ -1,7 +1,9 @@
-File: 0-1am_betty
+*File: 0-1am_betty*
+
 This script switches the current user to the user betty
 
-File: 1-who_am_i
+*File: 1-who_am_i*
+
 This script prints the effective username of the current user
 
 File: 2-groups
